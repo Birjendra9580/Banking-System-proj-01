@@ -1,0 +1,5 @@
+
+{
+  "name": "Modern Banking Dashboard",
+  "description": "A React-based frontend application that visualizes a modern banking microservices platform. It showcases customer profiles, account management, transaction history, and financial analytics with a clean, responsive UI built with Tailwind CSS."
+}
